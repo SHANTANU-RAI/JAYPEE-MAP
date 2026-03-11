@@ -29,7 +29,3 @@ To use the Jaypee Maps Navigation System, follow these steps:
 ## Contributing
 
 Contributions to the development and improvement of the Jaypee Maps Navigation System are welcome. Please feel free to submit bug reports, feature requests, or pull requests to help enhance the functionality and usability of the system.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project according to the terms of the license.
